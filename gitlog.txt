@@ -1,0 +1,23 @@
+commit 39efaf246264228fee412385df500b00728ad43b
+Author: wawoutert <wawmulder@gmail.com>
+Date:   Sun Jun 7 21:31:24 2020 +0200
+
+    added a file and ignored it
+
+commit 9e9c93972084f4b5fb44d198f2ae68cd0e402ea2
+Author: wawoutert <wawmulder@gmail.com>
+Date:   Sun Jun 7 20:54:59 2020 +0200
+
+    added .gitignore
+
+commit ddedcf37a425aff04177dd4098b8d1af57dc90f2
+Author: wawoutert <wawmulder@gmail.com>
+Date:   Sun Jun 7 20:35:00 2020 +0200
+
+    added two files
+
+commit 2bd9dce3ec103c193c1828b3f541bd320162d10b
+Author: wawoutert <wawmulder@gmail.com>
+Date:   Sun Jun 7 20:28:12 2020 +0200
+
+    added readme.txt
