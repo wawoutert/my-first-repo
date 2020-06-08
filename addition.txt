@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This was added earlier on.
-=======
-This has just been added.
->>>>>>> new-feature
