@@ -1,23 +1,17 @@
-# Sean Kross
+# Wouter Mulder
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in the Netherlands.
 
-### Reading
+### Sports
 
-Three of my favorite books are:
-
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
-
+My favourite sports team is Ajax Amsterdam.
+ 
 ### Food
 
-Last night I dreamt about eating in these restaurants:
+My favourtie cuisienes include:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
-
+1. Italian
+2. Thai
+3. Mexican
